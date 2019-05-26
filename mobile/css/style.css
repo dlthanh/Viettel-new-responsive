@@ -9,7 +9,7 @@ img {
     vertical-align: middle;
 }
 .emag-wrapper {
-    /* background-color: #ebdec7; */
+    background-color: #fbf3e4;
 }
 /* .emag-cover {
     padding-top: 46px;
@@ -19,7 +19,7 @@ img {
     width: 100%;
 }
 .emag-sapo {
-    margin: -15px auto 50px;
+    margin: 30px auto 50px;
 }
 .emag-sapo img {
     width: 100%;
@@ -86,6 +86,7 @@ img {
 }
 .emag-credit {
     margin-top: 90px;
+    padding-left: 15px;
 }
 .emag-credit p {
     font-size: 14px;

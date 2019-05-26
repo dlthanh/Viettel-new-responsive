@@ -25,7 +25,7 @@ img {
     margin: 0 auto;
 }
 .emag-wrapper {
-    /* background-color: #ebdec7; */
+    background-color: #fbf3e4;
 }
 /* .emag-cover {
     padding-top: 44px;
@@ -35,7 +35,7 @@ img {
     width: 100%;
 }
 .emag-sapo {
-    margin: -220px auto 60px;
+    margin: 60px auto;
 }
 .emag-sapo img {
     width: 100%;
@@ -140,7 +140,7 @@ img {
     float: left;
 }
 .emag-column img:last-child {
-    margin-right: 4px;
+    margin-left: 4px;
 }
 
 @media (max-width: 992px) {
@@ -162,7 +162,7 @@ img {
         vertical-align: middle;
     }
     .emag-wrapper {
-        /* background-color: #ebdec7; */
+        background-color: #fbf3e4;
     }
     /* .emag-cover {
         padding-top: 46px;
@@ -172,7 +172,7 @@ img {
         width: 100%;
     }
     .emag-sapo {
-        margin: -15px auto 50px;
+        margin: 30px auto 50px;
     }
     .emag-sapo img {
         width: 100%;
@@ -239,6 +239,8 @@ img {
     }
     .emag-credit {
         margin-top: 90px;
+        margin-bottom: 0;
+        padding-left: 15px;
     }
     .emag-credit p {
         font-size: 14px;
